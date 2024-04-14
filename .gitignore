@@ -60,7 +60,7 @@ outTmp/
 kotlin-ide/
 .kotlin/
 .teamcity/
-.sqlite3
+db.sqlite3
 admin
 python
 
